@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Abdevilji
-- 👀 I’m interested in most of the things
-- 🌱 I’m currently learning cpp/dsa
-- 💞️ I’m looking to collaborate on cp/hackathons/ innovative ideas.
-- 📫 How to reach me insta id:- abhishek_arsenick dm me
+- 👋 Hi, I’m @Abdevilji / Abhishek harsh
+- 👀 I’m interested in almost everything
+- 🌱 I’m currently learning life
+- 💞️ I’m looking to collaborate on cp/hackathons/innovative ideas/especially startups.
+- 📫 How to reach me insta id:- abhishek_arsenick dm me link in bio
 
 <!---
 Abdevilji/Abdevilji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
