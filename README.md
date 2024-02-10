@@ -2,7 +2,7 @@
 - 👀 I’m interested in almost everything
 - 🌱 I’m currently learning life
 - 💞️ I’m looking to collaborate on cp/hackathons/innovative ideas/especially startups.
-- 📫 How to reach me insta id:- abhishek_arsenick dm me link in bio
+- 📫 How to reach me insta id:- x.abhishek_arsenick.x dm me link in bio
 
 <!---
 Abdevilji/Abdevilji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
