@@ -20,7 +20,7 @@
 <a href="https://www.youtube.com/channel/UC_RwbNVg_4VR-G5PIQm4Qhg" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc_rwbnvg_4vr-g5piqm4qhg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abdevil786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdevil786" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/abhishekharsh786/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/abhishekharsh786/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/abhishekharsh786/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/abhishekharsh786/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
