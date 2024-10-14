@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abhishek21bcs36@iiitkottayam.ac.in**
 
-- ⚡ Fun fact **I am very funny😅**
+- ⚡ Fun fact **It takes time to get along but we surely will One Day😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
