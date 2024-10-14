@@ -8,7 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdevilji?tab=repositories](https://github.com/Abdevilji?tab=repositories)
 
-- 📝 I often make Vlogs on [https://www.youtube.com/channel/UC_RwbNVg_4VR-G5PIQm4Qhg](https://www.youtube.com/channel/UC_RwbNVg_4VR-G5PIQm4Qhg)
+<!----- 📝 I often make Vlogs on [https://www.youtube.com/channel/UC_RwbNVg_4VR-G5PIQm4Qhg](https://www.youtube.com/channel/UC_RwbNVg_4VR-G5PIQm4Qhg)--->
+
+- 💻 Personally mail me **abhishekharsh786@gmail.com**
 
 - 📫 How to reach me **abhishek21bcs36@iiitkottayam.ac.in**
 
